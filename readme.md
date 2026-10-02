@@ -12,7 +12,7 @@ Practice projects from my web development learning journey.
 | 2026-08-13 | fuzzy-feet                | Dog Grooming Service | Bootstrap cards, navbar, spacing, responsive layout                 |
 | 2026-08-20 | hogwarts-hotel            | Hotel                | Flexbox nav, images, sections, responsive layout                    |
 | 2026-08-26 | features-section-practice | SaaS / Feature Page  | Feature section structure and basic layout practice                 |
-| 2026-10-02 | coffee-shop               | Coffee Shop          | Prompts, variables, data types, reassignment, and boolean values    |
+| 2026-10-02 | cinder-coffee-shop        | Coffee Shop          | Prompts, variables, data types, reassignment, and boolean values    |
 
 ## Current Focus
 
