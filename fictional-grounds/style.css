@@ -1,0 +1,39 @@
+body{
+    background-color: #B2D959;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    font-family: "Instrument Serif", serif;
+    font-size: 1rem;
+}
+
+h2{
+    font-size: 4rem;
+    font-family: "Instrument Serif";
+    letter-spacing: 0.1em;
+}
+
+.hero{
+    font-size: 1.5rem;
+    font-weight: 80;
+}
+
+.outline{
+    border: 10px solid #FFF449; 
+    border-radius: 5%;
+}
+
+footer{
+    margin-top: auto;
+}
+
+p{
+    font-family: "Mozilla Text", sans-serif;
+}
+
+h3{
+    font-family: "Mozilla Text";
+}

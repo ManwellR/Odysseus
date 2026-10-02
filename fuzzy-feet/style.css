@@ -1,0 +1,35 @@
+body{
+    background-color: #5FACD3;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+h1{
+    font-size: 2.5rem;
+    font-family: Asset, serif;
+    color: #FFC349;
+}
+
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+}
+
+.btn-warning{
+    font-size: 3rem;
+    font-family: Asset, serif;
+    color: white;
+    margin-top: 150px
+}
+
+footer p {
+    font-size: 1.5rem;
+}
+
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
