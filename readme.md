@@ -14,14 +14,15 @@ Practice projects from my web development learning journey.
 | 2026-08-26 | features-section-practice | SaaS / Feature Page  | Feature section structure and basic layout practice                 |
 | 2026-10-02 | cinder-coffee-shop        | Coffee Shop          | Prompts, variables, data types, reassignment, and boolean values    |
 
-## Current Focus
 
-- Responsive web design
-- Bootstrap
-- Flexbox and Basic Grid
-- Building complete page layouts
-- Writing cleaner HTML and CSS
-- Learning to build from designs without copying
+- ## Current Focus
+
+- JavaScript fundamentals
+- Variables, data types, and operators
+- User input with prompts and alerts
+- Conditionals and comparison operators
+- Writing and debugging JavaScript logic
+- Improving problem-solving and independent coding skills
 
 ## Goal
 
