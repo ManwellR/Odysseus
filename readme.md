@@ -2,11 +2,6 @@
 
 Practice projects from my web development learning journey.
 
-
-# Odysseus
-
-Practice projects from my web development learning journey.
-
 ## Projects
 
 | Date       | Project                   | Business / Site Type | What it covers                                                                                         |
@@ -25,30 +20,16 @@ Practice projects from my web development learning journey.
 
 ## Current Focus
 
-- JavaScript fundamentals
-- Variables, data types, and operators
-- User input with prompts and alerts
-- Conditionals and comparison operators
-- Functions and repeated function calls
-- Counters, string manipulation, and arithmetic
-- Writing and debugging JavaScript logic
-- Improving problem-solving and independent coding skills
+- JavaScript fundamentals: variables, data types, and operators
+- Reusable functions with parameters, arguments, and return values
+- Calling one function from another
+- String slicing, case conversion, and concatenation
+- Formatting names, booking codes, and confirmation messages
+- Calculating booking prices and combining returned values into a daily total
+- Displaying results with alerts
+- Debugging JavaScript logic and building independently
 
 ## Goal
 
 Build enough independent projects to become comfortable creating responsive websites from scratch and eventually take on freelance web development work.
 
-## Current Focus
-
-- JavaScript fundamentals
-- Variables, data types, and operators
-- User input with prompts and alerts
-- Conditionals and comparison operators
-- Functions and repeated function calls
-- Counters, string manipulation, and arithmetic
-- Writing and debugging JavaScript logic
-- Improving problem-solving and independent coding skills
-
-## Goal
-
-Build enough independent projects to become comfortable creating responsive websites from scratch and eventually take on freelance web development work.
